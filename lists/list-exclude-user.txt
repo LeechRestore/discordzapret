@@ -1,0 +1,2 @@
+domain.example.abc
+# LeechRestore/discordzapret 85fa7135ac24
